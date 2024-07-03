@@ -1,0 +1,1562 @@
+[
+{
+"sentence": "The dog is running through a field of tall grass.",
+"classification": "action"
+},
+{
+"sentence": "A red bicycle is leaning against the wall of a brick building.",
+"classification": "object"
+},
+{
+"sentence": "The woman is sitting on a park bench, feeding the pigeons.",
+"classification": "action"
+},
+{
+"sentence": "A large, white sailboat is anchored in a calm blue bay.",
+"classification": "object"
+},
+{
+"sentence": "Two children are playing in a sandbox, building sandcastles.",
+"classification": "action"
+},
+{
+"sentence": "A plate of freshly baked cookies sits on a table next to a cup of coffee.",
+"classification": "object"
+},
+{
+"sentence": "The cat is sleeping peacefully on a sunny windowsill.",
+"classification": "action"
+},
+{
+"sentence": "A bouquet of colorful wildflowers sits in a vase on a wooden table.",
+"classification": "object"
+},
+{
+"sentence": "The man is driving a bright red sports car down a winding road.",
+"classification": "action"
+},
+{
+"sentence": "A vintage camera is lying open on a table, revealing a roll of film.",
+"classification": "object"
+},
+{
+"sentence": "The girl is reading a book on a swing set, enjoying the warm afternoon sun.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique books is displayed on a bookshelf in a cozy library.",
+"classification": "object"
+},
+{
+"sentence": "The chef is preparing a delicious meal in the kitchen, chopping vegetables and stirring a pot.",
+"classification": "action"
+},
+{
+"sentence": "A silver tea set sits on a tray, ready for a formal afternoon tea.",
+"classification": "object"
+},
+{
+"sentence": "The artist is painting a landscape on a canvas, using vibrant colors.",
+"classification": "action"
+},
+{
+"sentence": "A framed photograph of a family is hanging on the wall above a fireplace.",
+"classification": "object"
+},
+{
+"sentence": "The boy is playing a video game on a console, holding a controller in his hands.",
+"classification": "action"
+},
+{
+"sentence": "A stack of colorful pillows is arranged on a sofa in a living room.",
+"classification": "object"
+},
+{
+"sentence": "The woman is dancing in a club, moving to the rhythm of the music.",
+"classification": "action"
+},
+{
+"sentence": "A set of vintage suitcases is stacked on top of each other in the corner of the room.",
+"classification": "object"
+},
+{
+"sentence": "The birds are singing in the trees, creating a beautiful melody.",
+"classification": "action"
+},
+{
+"sentence": "A wooden rocking chair sits on the porch of a cozy cottage.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing its tail, running in circles on the lawn.",
+"classification": "action"
+},
+{
+"sentence": "A pair of red high-heeled shoes are sitting on the floor next to a dress.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the garden, giggling and running through the bushes.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique clocks is displayed on a mantle above a fireplace.",
+"classification": "object"
+},
+{
+"sentence": "The man is reading a newspaper on a park bench, enjoying the warm morning sun.",
+"classification": "action"
+},
+{
+"sentence": "A basket of fresh fruit sits on a counter next to a bowl of vegetables.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing in a journal, sitting at a desk by a window.",
+"classification": "action"
+},
+{
+"sentence": "A beautiful antique mirror hangs on the wall, reflecting the light from the chandelier.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing tag in the playground, running and laughing.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall in a cozy apartment.",
+"classification": "object"
+},
+{
+"sentence": "The cat is napping in a sunbeam, curled up on a soft rug.",
+"classification": "action"
+},
+{
+"sentence": "A set of colorful glasses is arranged on a bar, ready for a party.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the guitar, strumming chords and singing a song.",
+"classification": "action"
+},
+{
+"sentence": "A vintage typewriter sits on a desk, its keys worn from years of use.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cooking dinner, stirring a pot of soup and chopping vegetables.",
+"classification": "action"
+},
+{
+"sentence": "A stack of old books is piled on a table, ready for a night of reading.",
+"classification": "object"
+},
+{
+"sentence": "The dog is barking at a squirrel, chasing it up a tree.",
+"classification": "action"
+},
+{
+"sentence": "A collection of framed artwork is displayed on the walls of an art gallery.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the snow, building a snowman and throwing snowballs.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique chairs is arranged around a wooden table in a dining room.",
+"classification": "object"
+},
+{
+"sentence": "The man is fixing a bicycle, using tools to tighten screws and replace parts.",
+"classification": "action"
+},
+{
+"sentence": "A collection of seashells is arranged on a table next to a bowl of sand.",
+"classification": "object"
+},
+{
+"sentence": "The woman is watering the flowers in her garden, using a watering can.",
+"classification": "action"
+},
+{
+"sentence": "A beautiful antique vase sits on a table, filled with a bouquet of flowers.",
+"classification": "object"
+},
+{
+"sentence": "The dog is fetching a ball, running back and forth across the yard.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage cameras is displayed on a shelf, showcasing different models.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers sits on a tray, ready for a tea party.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage tools is displayed on a wall, showcasing different trades.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cleaning the house, vacuuming the floors and wiping down surfaces.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique jewelry is displayed in a glass case, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing fetch, running after a ball and bringing it back.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage toys is displayed on a shelf, showcasing different eras.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the pool, splashing water and having fun.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique glasses is displayed in a cabinet, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The man is painting a portrait, using brushes and oil paints to capture the subject's likeness.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage maps is displayed on a wall, showcasing different locations.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing a letter, using a pen and paper to express her thoughts.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique furniture is displayed in a showroom, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing a butterfly, running through a field of flowers.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage hats is displayed on a shelf, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk and jumping from square to square.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers is displayed on a tray, showcasing different patterns and ready for a tea party.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move and carefully considering his options.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres and artists.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles to create a warm and cozy accessory.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles and eras.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room and barking excitedly.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations and memories.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles with imagination.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns and craftsmanship.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody with passion and skill.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics and eras.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace and enjoying the warmth.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles and designs.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt and find buried treasures.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories and moments.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room and giggling with delight.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns and styles.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family with love and care.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage tools is displayed on a wall, showcasing different trades and skills.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cleaning the house, vacuuming the floors and wiping down surfaces to create a clean and inviting space.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique jewelry is displayed in a glass case, showcasing different styles and craftsmanship.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing fetch, running after a ball and bringing it back to its owner with enthusiasm.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage toys is displayed on a shelf, showcasing different eras and childhood memories.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the pool, splashing water and having fun on a hot summer day.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique glasses is displayed in a cabinet, showcasing different styles and designs.",
+"classification": "object"
+},
+{
+"sentence": "The man is painting a portrait, using brushes and oil paints to capture the subject's likeness with precision.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage maps is displayed on a wall, showcasing different locations and adventures.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing a letter, using a pen and paper to express her thoughts and feelings.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique furniture is displayed in a showroom, showcasing different styles and periods.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing a butterfly, running through a field of flowers and enjoying the warm sunshine.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage hats is displayed on a shelf, showcasing different styles and eras.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk and jumping from square to square with joy.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers is displayed on a tray, showcasing different patterns and ready for a tea party with friends.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move and carefully considering his options with a thoughtful expression.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres and artists from a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles to create a warm and cozy accessory for a loved one.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles and eras, each with its own unique story.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room and barking excitedly with playful energy.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations and memories from travels.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles with imagination and enthusiasm.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns and craftsmanship from a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody with passion and skill, his fingers dancing across the keys.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics and eras, offering a glimpse into the past.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace and enjoying the warmth and the quiet.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles and designs, each casting a warm and inviting glow.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt and find buried treasures, its tail wagging with excitement.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories and moments, each capturing a precious piece of the past.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room and giggling with delight, their laughter echoing through the hallways.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns and styles, each telling a story of elegance and craftsmanship.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family with love and care, the aroma of spices filling the kitchen.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage tools is displayed on a wall, showcasing different trades and skills, each a testament to human ingenuity.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cleaning the house, vacuuming the floors and wiping down surfaces to create a clean and inviting space for her family.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique jewelry is displayed in a glass case, showcasing different styles and craftsmanship, each piece a work of art.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing fetch, running after a ball and bringing it back to its owner with enthusiasm, its tail wagging furiously.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage toys is displayed on a shelf, showcasing different eras and childhood memories, each evoking a sense of nostalgia.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the pool, splashing water and having fun on a hot summer day, their laughter echoing through the air.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique glasses is displayed in a cabinet, showcasing different styles and designs, each reflecting the beauty of a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The man is painting a portrait, using brushes and oil paints to capture the subject's likeness with precision and skill, his eyes focused intently.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage maps is displayed on a wall, showcasing different locations and adventures, each offering a glimpse into the world.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing a letter, using a pen and paper to express her thoughts and feelings, her words flowing freely onto the page.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique furniture is displayed in a showroom, showcasing different styles and periods, each piece a testament to the artistry of its creators.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing a butterfly, running through a field of flowers and enjoying the warm sunshine, its tongue lolling out in happiness.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage hats is displayed on a shelf, showcasing different styles and eras, each hat a unique piece of history.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk and jumping from square to square with joy, their laughter filling the air.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers is displayed on a tray, showcasing different patterns and ready for a tea party with friends, each cup a delicate work of art.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move and carefully considering his options with a thoughtful expression, his brow furrowed in concentration.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres and artists from a bygone era, each record holding a piece of musical history.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles to create a warm and cozy accessory for a loved one, her hands moving swiftly and skillfully.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles and eras, each doll with its own unique story and charm.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room and barking excitedly with playful energy, its tail wagging with delight.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations and memories from travels, each card a reminder of a special place or time.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles with imagination and enthusiasm, their faces lit up with joy.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns and craftsmanship from a bygone era, each piece a testament to the skill of the artisans who created them.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody with passion and skill, his fingers dancing across the keys, creating beautiful music.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics and eras, offering a glimpse into the past and the evolution of culture.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace and enjoying the warmth and the quiet, her mind transported to another world.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles and designs, each casting a warm and inviting glow, illuminating the room with its soft light.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt and find buried treasures, its tail wagging with excitement, its nose sniffing the ground.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories and moments, each capturing a precious piece of the past, a snapshot of time.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room and giggling with delight, their laughter echoing through the hallways, filling the home with joy.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns and styles, each telling a story of elegance and craftsmanship, a testament to the artistry of the past.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family with love and care, the aroma of spices filling the kitchen, creating a sense of warmth and comfort.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage tools is displayed on a wall, showcasing different trades and skills, each a testament to human ingenuity and the evolution of technology.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cleaning the house, vacuuming the floors and wiping down surfaces to create a clean and inviting space for her family, her movements efficient and purposeful.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique jewelry is displayed in a glass case, showcasing different styles and craftsmanship, each piece a work of art, a treasure from a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing fetch, running after a ball and bringing it back to its owner with enthusiasm, its tail wagging furiously, its eyes sparkling with joy.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage toys is displayed on a shelf, showcasing different eras and childhood memories, each toy evoking a sense of nostalgia and a time of innocence.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the pool, splashing water and having fun on a hot summer day, their laughter echoing through the air, their spirits soaring with happiness.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique glasses is displayed in a cabinet, showcasing different styles and designs, each reflecting the beauty of a bygone era, each glass a unique work of art.",
+"classification": "object"
+},
+{
+"sentence": "The man is painting a portrait, using brushes and oil paints to capture the subject's likeness with precision and skill, his eyes focused intently, his hand moving with grace.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage maps is displayed on a wall, showcasing different locations and adventures, each offering a glimpse into the world, each map a treasure trove of exploration.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing a letter, using a pen and paper to express her thoughts and feelings, her words flowing freely onto the page, her thoughts taking shape on the paper.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique furniture is displayed in a showroom, showcasing different styles and periods, each piece a testament to the artistry of its creators, a reflection of history and design.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing a butterfly, running through a field of flowers and enjoying the warm sunshine, its tongue lolling out in happiness, its spirit free and joyful.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage hats is displayed on a shelf, showcasing different styles and eras, each hat a unique piece of history, a fashion statement from a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk and jumping from square to square with joy, their laughter filling the air, their faces beaming with delight.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers is displayed on a tray, showcasing different patterns and ready for a tea party with friends, each cup a delicate work of art, each saucer a miniature masterpiece.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move and carefully considering his options with a thoughtful expression, his brow furrowed in concentration, his mind focused on the game.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres and artists from a bygone era, each record holding a piece of musical history, a timeless melody waiting to be heard.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles to create a warm and cozy accessory for a loved one, her hands moving swiftly and skillfully, her heart filled with love and care.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles and eras, each doll with its own unique story and charm, each a reminder of childhood dreams and imaginations.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room and barking excitedly with playful energy, its tail wagging with delight, its spirit full of joy and exuberance.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations and memories from travels, each card a reminder of a special place or time, a piece of the world captured in a moment.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles with imagination and enthusiasm, their faces lit up with joy, their spirits soaring with creativity.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns and craftsmanship from a bygone era, each piece a testament to the skill of the artisans who created them, each fork, knife, and spoon a work of art.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody with passion and skill, his fingers dancing across the keys, creating beautiful music that fills the room with harmony.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics and eras, offering a glimpse into the past and the evolution of culture, each magazine a window into a different time.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace and enjoying the warmth and the quiet, her mind transported to another world, her imagination taking flight.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles and designs, each casting a warm and inviting glow, illuminating the room with its soft light, creating a cozy and inviting atmosphere.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt and find buried treasures, its tail wagging with excitement, its nose sniffing the ground, its instincts taking over.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories and moments, each capturing a precious piece of the past, a snapshot of time, a frozen moment in history.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room and giggling with delight, their laughter echoing through the hallways, filling the home with joy, their spirits brimming with fun.",
+"classification": "action"
+},
+{
+"sentence": "A woman is sitting on a park bench, feeding the birds.",
+"classification": "action"
+},
+{
+"sentence": "A large, white sailboat is anchored in a calm blue bay.",
+"classification": "object"
+},
+{
+"sentence": "Two children are playing in a sandbox, building sandcastles.",
+"classification": "action"
+},
+{
+"sentence": "A plate of freshly baked cookies sits on a table next to a cup of coffee.",
+"classification": "object"
+},
+{
+"sentence": "The cat is sleeping peacefully on a sunny windowsill.",
+"classification": "action"
+},
+{
+"sentence": "A bouquet of colorful wildflowers sits in a vase on a wooden table.",
+"classification": "object"
+},
+{
+"sentence": "The man is driving a bright red sports car down a winding road.",
+"classification": "action"
+},
+{
+"sentence": "A vintage camera is lying open on a table, revealing a roll of film.",
+"classification": "object"
+},
+{
+"sentence": "The girl is reading a book on a swing set, enjoying the warm afternoon sun.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique books is displayed on a bookshelf in a cozy library.",
+"classification": "object"
+},
+{
+"sentence": "The chef is preparing a delicious meal in the kitchen, chopping vegetables and stirring a pot.",
+"classification": "action"
+},
+{
+"sentence": "A silver tea set sits on a tray, ready for a formal afternoon tea.",
+"classification": "object"
+},
+{
+"sentence": "The artist is painting a landscape on a canvas, using vibrant colors.",
+"classification": "action"
+},
+{
+"sentence": "A framed photograph of a family is hanging on the wall above a fireplace.",
+"classification": "object"
+},
+{
+"sentence": "The boy is playing a video game on a console, holding a controller in his hands.",
+"classification": "action"
+},
+{
+"sentence": "A stack of colorful pillows is arranged on a sofa in a living room.",
+"classification": "object"
+},
+{
+"sentence": "The woman is dancing in a club, moving to the rhythm of the music.",
+"classification": "action"
+},
+{
+"sentence": "A set of vintage suitcases is stacked on top of each other in the corner of the room.",
+"classification": "object"
+},
+{
+"sentence": "The birds are singing in the trees, creating a beautiful melody.",
+"classification": "action"
+},
+{
+"sentence": "A wooden rocking chair sits on the porch of a cozy cottage.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing its tail, running in circles on the lawn.",
+"classification": "action"
+},
+{
+"sentence": "A pair of red high-heeled shoes are sitting on the floor next to a dress.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the garden, giggling and running through the bushes.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique clocks is displayed on a mantle above a fireplace.",
+"classification": "object"
+},
+{
+"sentence": "The man is reading a newspaper on a park bench, enjoying the warm morning sun.",
+"classification": "action"
+},
+{
+"sentence": "A basket of fresh fruit sits on a counter next to a bowl of vegetables.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing in a journal, sitting at a desk by a window.",
+"classification": "action"
+},
+{
+"sentence": "A beautiful antique mirror hangs on the wall, reflecting the light from the chandelier.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing tag in the playground, running and laughing.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall in a cozy apartment.",
+"classification": "object"
+},
+{
+"sentence": "The cat is napping in a sunbeam, curled up on a soft rug.",
+"classification": "action"
+},
+{
+"sentence": "A set of colorful glasses is arranged on a bar, ready for a party.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the guitar, strumming chords and singing a song.",
+"classification": "action"
+},
+{
+"sentence": "A vintage typewriter sits on a desk, its keys worn from years of use.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cooking dinner, stirring a pot of soup and chopping vegetables.",
+"classification": "action"
+},
+{
+"sentence": "A stack of old books is piled on a table, ready for a night of reading.",
+"classification": "object"
+},
+{
+"sentence": "The dog is barking at a squirrel, chasing it up a tree.",
+"classification": "action"
+},
+{
+"sentence": "A collection of framed artwork is displayed on the walls of an art gallery.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the snow, building a snowman and throwing snowballs.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique chairs is arranged around a wooden table in a dining room.",
+"classification": "object"
+},
+{
+"sentence": "The man is fixing a bicycle, using tools to tighten screws and replace parts.",
+"classification": "action"
+},
+{
+"sentence": "A collection of seashells is arranged on a table next to a bowl of sand.",
+"classification": "object"
+},
+{
+"sentence": "The woman is watering the flowers in her garden, using a watering can.",
+"classification": "action"
+},
+{
+"sentence": "A beautiful antique vase sits on a table, filled with a bouquet of flowers.",
+"classification": "object"
+},
+{
+"sentence": "The dog is fetching a ball, running back and forth across the yard.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage cameras is displayed on a shelf, showcasing different models.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers sits on a tray, ready for a tea party.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage tools is displayed on a wall, showcasing different trades.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cleaning the house, vacuuming the floors and wiping down surfaces.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique jewelry is displayed in a glass case, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing fetch, running after a ball and bringing it back.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage toys is displayed on a shelf, showcasing different eras.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the pool, splashing water and having fun.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique glasses is displayed in a cabinet, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The man is painting a portrait, using brushes and oil paints to capture the subject's likeness.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage maps is displayed on a wall, showcasing different locations.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing a letter, using a pen and paper to express her thoughts.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique furniture is displayed in a showroom, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing a butterfly, running through a field of flowers.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage hats is displayed on a shelf, showcasing different styles.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk and jumping from square to square.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers sits on a tray, showcasing different patterns and ready for a tea party.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move and carefully considering his options.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres and artists.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles to create a warm and cozy accessory.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles and eras.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room and barking excitedly.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations and memories.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles with imagination.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns and craftsmanship.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody with passion and skill.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics and eras.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace and enjoying the warmth.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles and designs.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt and find buried treasures.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories and moments.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room and giggling with delight.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns and styles.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family with love and care.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage tools is displayed on a wall, showcasing different trades and skills.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cleaning the house, vacuuming the floors and wiping down surfaces to create a clean and inviting space.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique jewelry is displayed in a glass case, showcasing different styles and craftsmanship.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing fetch, running after a ball and bringing it back to its owner with enthusiasm.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage toys is displayed on a shelf, showcasing different eras and childhood memories.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the pool, splashing water and having fun on a hot summer day.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique glasses is displayed in a cabinet, showcasing different styles and designs.",
+"classification": "object"
+},
+{
+"sentence": "The man is painting a portrait, using brushes and oil paints to capture the subject's likeness with precision.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage maps is displayed on a wall, showcasing different locations and adventures.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing a letter, using a pen and paper to express her thoughts and feelings.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique furniture is displayed in a showroom, showcasing different styles and periods.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing a butterfly, running through a field of flowers and enjoying the warm sunshine.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage hats is displayed on a shelf, showcasing different styles and eras.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk and jumping from square to square with joy.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers is displayed on a tray, showcasing different patterns and ready for a tea party with friends.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move and carefully considering his options with a thoughtful expression.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres and artists from a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles to create a warm and cozy accessory for a loved one.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles and eras, each with its own unique story.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room and barking excitedly with playful energy.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations and memories from travels.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles with imagination and enthusiasm.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns and craftsmanship from a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody with passion and skill, his fingers dancing across the keys.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics and eras, offering a glimpse into the past.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace and enjoying the warmth and the quiet.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles and designs, each casting a warm and inviting glow.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt and find buried treasures, its tail wagging with excitement.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories and moments, each capturing a precious piece of the past.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room and giggling with delight, their laughter echoing through the hallways.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns and styles, each telling a story of elegance and craftsmanship.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family with love and care, the aroma of spices filling the kitchen.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage tools is displayed on a wall, showcasing different trades and skills, each a testament to human ingenuity.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cleaning the house, vacuuming the floors and wiping down surfaces to create a clean and inviting space for her family.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique jewelry is displayed in a glass case, showcasing different styles and craftsmanship, each piece a work of art.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing fetch, running after a ball and bringing it back to its owner with enthusiasm, its tail wagging furiously.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage toys is displayed on a shelf, showcasing different eras and childhood memories.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the pool, splashing water and having fun on a hot summer day, their laughter echoing through the air.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique glasses is displayed in a cabinet, showcasing different styles and designs.",
+"classification": "object"
+},
+{
+"sentence": "The man is painting a portrait, using brushes and oil paints to capture the subject's likeness with precision and skill, his eyes focused intently.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage maps is displayed on a wall, showcasing different locations and adventures.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing a letter, using a pen and paper to express her thoughts and feelings.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique furniture is displayed in a showroom, showcasing different styles and periods.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing a butterfly, running through a field of flowers and enjoying the warm sunshine, its tongue lolling out in happiness.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage hats is displayed on a shelf, showcasing different styles and eras.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk and jumping from square to square with joy, their laughter filling the air.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers is displayed on a tray, showcasing different patterns and ready for a tea party with friends, each cup a delicate work of art.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move and carefully considering his options with a thoughtful expression, his brow furrowed in concentration.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres and artists from a bygone era, each record holding a piece of musical history.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles to create a warm and cozy accessory for a loved one, her hands moving swiftly and skillfully.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles and eras, each doll with its own unique story and charm.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room and barking excitedly with playful energy, its tail wagging with delight.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations and memories from travels, each card a reminder of a special place or time.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles with imagination and enthusiasm, their faces lit up with joy.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns and craftsmanship from a bygone era, each piece a testament to the skill of the artisans who created them.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody with passion and skill, his fingers dancing across the keys, creating beautiful music.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics and eras, offering a glimpse into the past and the evolution of culture.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace and enjoying the warmth and the quiet, her mind transported to another world.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles and designs, each casting a warm and inviting glow, illuminating the room with its soft light.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt and find buried treasures, its tail wagging with excitement, its nose sniffing the ground.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories and moments, each capturing a precious piece of the past, a snapshot of time.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room and giggling with delight, their laughter echoing through the hallways, filling the home with joy.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns and styles, each telling a story of elegance and craftsmanship, a testament to the artistry of the past.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family with love and care, the aroma of spices filling the kitchen, creating a sense of warmth and comfort.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage tools is displayed on a wall, showcasing different trades and skills, each a testament to human ingenuity and the evolution of technology.",
+"classification": "object"
+},
+{
+"sentence": "The woman is cleaning the house, vacuuming the floors and wiping down surfaces to create a clean and inviting space for her family, her movements efficient and purposeful.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique jewelry is displayed in a glass case, showcasing different styles and craftsmanship, each piece a work of art, a treasure from a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing fetch, running after a ball and bringing it back to its owner with enthusiasm, its tail wagging furiously, its eyes sparkling with joy.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage toys is displayed on a shelf, showcasing different eras and childhood memories, each toy evoking a sense of nostalgia and a time of innocence.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing in the pool, splashing water and having fun on a hot summer day, their laughter echoing through the air, their spirits soaring with happiness.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique glasses is displayed in a cabinet, showcasing different styles and designs, each reflecting the beauty of a bygone era, each glass a unique work of art.",
+"classification": "object"
+},
+{
+"sentence": "The man is painting a portrait, using brushes and oil paints to capture the subject's likeness with precision and skill, his eyes focused intently, his hand moving with grace.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage maps is displayed on a wall, showcasing different locations and adventures, each offering a glimpse into the world, each map a treasure trove of exploration.",
+"classification": "object"
+},
+{
+"sentence": "The woman is writing a letter, using a pen and paper to express her thoughts and feelings, her words flowing freely onto the page, her thoughts taking shape on the paper.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique furniture is displayed in a showroom, showcasing different styles and periods, each piece a testament to the artistry of its creators, a reflection of history and design.",
+"classification": "object"
+},
+{
+"sentence": "The dog is chasing a butterfly, running through a field of flowers and enjoying the warm sunshine, its tongue lolling out in happiness, its spirit free and joyful.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage hats is displayed on a shelf, showcasing different styles and eras, each hat a unique piece of history, a fashion statement from a bygone era.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hopscotch on the sidewalk, drawing numbers with chalk and jumping from square to square with joy, their laughter filling the air, their faces beaming with delight.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique teacups and saucers is displayed on a tray, showcasing different patterns and ready for a tea party with friends, each cup a delicate work of art, each saucer a miniature masterpiece.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing chess, strategizing his next move and carefully considering his options with a thoughtful expression, his brow furrowed in concentration, his mind focused on the game.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage records is displayed on a shelf, showcasing different genres and artists from a bygone era, each record holding a piece of musical history, a timeless melody waiting to be heard.",
+"classification": "object"
+},
+{
+"sentence": "The woman is knitting a scarf, using colorful yarn and needles to create a warm and cozy accessory for a loved one, her hands moving swiftly and skillfully, her heart filled with love and care.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique dolls is displayed on a shelf, showcasing different styles and eras, each doll with its own unique story and charm, each a reminder of childhood dreams and imaginations.",
+"classification": "object"
+},
+{
+"sentence": "The dog is playing with a toy, chasing it around the room and barking excitedly with playful energy, its tail wagging with delight, its spirit full of joy and exuberance.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage postcards is displayed on a wall, showcasing different destinations and memories from travels, each card a reminder of a special place or time, a piece of the world captured in a moment.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing dress-up, wearing costumes and acting out different roles with imagination and enthusiasm, their faces lit up with joy, their spirits soaring with creativity.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique silverware is displayed in a glass case, showcasing different patterns and craftsmanship from a bygone era, each piece a testament to the skill of the artisans who created them, each fork, knife, and spoon a work of art.",
+"classification": "object"
+},
+{
+"sentence": "The man is playing the piano, pressing keys and composing a melody with passion and skill, his fingers dancing across the keys, creating beautiful music that fills the room with harmony.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage magazines is displayed on a table, showcasing different topics and eras, offering a glimpse into the past and the evolution of culture, each magazine a window into a different time.",
+"classification": "object"
+},
+{
+"sentence": "The woman is reading a book, sitting in a comfortable armchair by the fireplace and enjoying the warmth and the quiet, her mind transported to another world, her imagination taking flight.",
+"classification": "action"
+},
+{
+"sentence": "A collection of antique lamps is displayed on a table, showcasing different styles and designs, each casting a warm and inviting glow, illuminating the room with its soft light, creating a cozy and inviting atmosphere.",
+"classification": "object"
+},
+{
+"sentence": "The dog is digging a hole in the garden, using its paws to move dirt and find buried treasures, its tail wagging with excitement, its nose sniffing the ground, its instincts taking over.",
+"classification": "action"
+},
+{
+"sentence": "A collection of vintage photographs is displayed on a wall, showcasing different memories and moments, each capturing a precious piece of the past, a snapshot of time, a frozen moment in history.",
+"classification": "object"
+},
+{
+"sentence": "The children are playing hide-and-seek in the house, running from room to room and giggling with delight, their laughter echoing through the hallways, filling the home with joy, their spirits brimming with fun.",
+"classification": "action"
+},
+{
+"sentence": "A set of antique plates and bowls is displayed on a shelf, showcasing different patterns and styles, each telling a story of elegance and craftsmanship, a testament to the artistry of the past.",
+"classification": "object"
+},
+{
+"sentence": "The man is cooking dinner, preparing a delicious meal for his family with love and care, the aroma of spices filling the kitchen, creating a sense of warmth and comfort.",
+"classification": "action"
+}
+  ,
+  {"sentence": "The dog is running.", "classification": "action"},
+  {"sentence": "A red bicycle is leaning.", "classification": "object"},
+  {"sentence": "The woman is sitting.", "classification": "action"},
+  {"sentence": "A large sailboat is anchored.", "classification": "object"},
+  {"sentence": "Two children are playing.", "classification": "action"},
+  {"sentence": "A plate of cookies sits.", "classification": "object"},
+  {"sentence": "The cat is sleeping.", "classification": "action"},
+  {"sentence": "A bouquet of flowers sits.", "classification": "object"},
+  {"sentence": "The man is driving.", "classification": "action"},
+  {"sentence": "A vintage camera is lying.", "classification": "object"},
+  {"sentence": "The girl is reading.", "classification": "action"},
+  {"sentence": "Antique books are displayed.", "classification": "object"},
+  {"sentence": "The chef is preparing.", "classification": "action"},
+  {"sentence": "A silver tea set sits.", "classification": "object"},
+  {"sentence": "The artist is painting.", "classification": "action"},
+  {"sentence": "A framed photograph hangs.", "classification": "object"}, {"sentence": "The boy is playing.", "classification": "action"}, {"sentence": "Colorful pillows are arranged.", "classification": "object"}, {"sentence": "The woman is dancing.", "classification": "action"}, {"sentence": "Vintage suitcases are stacked.", "classification": "object"}, {"sentence": "Birds are singing.", "classification": "action"}, {"sentence": "A rocking chair sits.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Red shoes are sitting.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique clocks are displayed.", "classification": "object"}, {"sentence": "The man is reading.", "classification": "action"}, {"sentence": "A basket of fruit sits.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "An antique mirror hangs.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The cat is napping.", "classification": "action"}, {"sentence": "Colorful glasses are arranged.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "A vintage typewriter sits.", "classification": "object"}, {"sentence": "The woman is cooking.", "classification": "action"}, {"sentence": "Old books are piled.", "classification": "object"}, {"sentence": "The dog is barking.", "classification": "action"}, {"sentence": "Framed artwork is displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique chairs are arranged.", "classification": "object"}, {"sentence": "The man is fixing.", "classification": "action"}, {"sentence": "Seashells are arranged.", "classification": "object"}, {"sentence": "The woman is watering.", "classification": "action"}, {"sentence": "An antique vase sits.", "classification": "object"}, {"sentence": "The dog is fetching.", "classification": "action"}, {"sentence": "Vintage cameras are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique plates are displayed.", "classification": "object"}, {"sentence": "The man is cooking.", "classification": "action"}, {"sentence": "Vintage tools are displayed.", "classification": "object"}, {"sentence": "The woman is cleaning.", "classification": "action"}, {"sentence": "Antique jewelry is displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage toys are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique glasses are displayed.", "classification": "object"}, {"sentence": "The man is painting.", "classification": "action"}, {"sentence": "Vintage maps are displayed.", "classification": "object"}, {"sentence": "The woman is writing.", "classification": "action"}, {"sentence": "Antique furniture is displayed.", "classification": "object"}, {"sentence": "The dog is chasing.", "classification": "action"}, {"sentence": "Vintage hats are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique teacups sit.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage records are displayed.", "classification": "object"}, {"sentence": "The woman is knitting.", "classification": "action"}, {"sentence": "Antique dolls are displayed.", "classification": "object"}, {"sentence": "The dog is playing.", "classification": "action"}, {"sentence": "Vintage postcards are displayed.", "classification": "object"}, {"sentence": "The children are playing.", "classification": "action"}, {"sentence": "Antique silverware is displayed.", "classification": "object"}, {"sentence": "The man is playing.", "classification": "action"}, {"sentence": "Vintage magazines are displayed.", "classification": "object"}, {"sentence": "The woman is reading.", "classification": "action"}, {"sentence": "Antique lamps are displayed.", "classification": "object"}, {"sentence": "The dog is digging.", "classification": "action"}, {"sentence": "Vintage photographs are displayed.", "classification": "object"}]
