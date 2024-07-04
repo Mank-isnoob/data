@@ -1,0 +1,4 @@
+The cat is on the mat.
+There is a cat on the mat.
+The quick brown fox jumps over the lazy dog.
+A stitch in time saves nine.
