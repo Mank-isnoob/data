@@ -1,0 +1,110 @@
+import sys
+import codecs
+import os
+import math
+import operator
+from functools import reduce  # Import reduce for Python 3
+
+def fetch_data(cand, ref):
+    """Read candidate and reference sentences from files."""
+    references = []
+    if ref.endswith('.txt'):
+        # Single reference file
+        with codecs.open(ref, 'r', 'utf-8') as reference_file:
+            references.append(reference_file.readlines())
+    else:
+        # Directory of reference files
+        for root, dirs, files in os.walk(ref):
+            for f in files:
+                with codecs.open(os.path.join(root, f), 'r', 'utf-8') as reference_file:
+                    references.append(reference_file.readlines())
+    
+    with codecs.open(cand, 'r', 'utf-8') as candidate_file:
+        candidate = candidate_file.readlines()
+    
+    return candidate, references
+
+def count_ngram(candidate, references, n):
+    """Count n-grams and calculate precision for n-grams of size n."""
+    clipped_count = 0
+    count = 0
+    r = 0
+    c = 0
+    for si in range(len(candidate)):
+        ref_counts = []
+        ref_lengths = []
+        
+        # Build dictionary of n-gram counts for each reference sentence
+        for reference in references:
+            ref_sentence = reference[si].strip()
+            words = ref_sentence.split()
+            ref_lengths.append(len(words))
+            limits = len(words) - n + 1
+            ngram_d = {}
+            for i in range(limits):
+                ngram = ' '.join(words[i:i+n]).lower()
+                ngram_d[ngram] = ngram_d.get(ngram, 0) + 1
+            ref_counts.append(ngram_d)
+        
+        # Candidate sentence n-gram counts
+        cand_sentence = candidate[si].strip()
+        words = cand_sentence.split()
+        limits = len(words) - n + 1
+        cand_dict = {}
+        for i in range(limits):
+            ngram = ' '.join(words[i:i+n]).lower()
+            cand_dict[ngram] = cand_dict.get(ngram, 0) + 1
+        
+        clipped_count += clip_count(cand_dict, ref_counts)
+        count += limits
+        r += best_length_match(ref_lengths, len(words))
+        c += len(words)
+    
+    pr = float(clipped_count) / count if clipped_count > 0 else 0
+    bp = brevity_penalty(c, r)
+    return pr, bp
+
+def clip_count(cand_d, ref_ds):
+    """Count the clipped n-grams for candidate sentence."""
+    count = 0
+    for ngram, ngram_count in cand_d.items():
+        max_ref_count = max(ref_d.get(ngram, 0) for ref_d in ref_ds)
+        count += min(ngram_count, max_ref_count)
+    return count
+
+def best_length_match(ref_l, cand_l):
+    """Find the reference length closest to the candidate length."""
+    best_match = min(ref_l, key=lambda ref_len: (abs(ref_len - cand_l), ref_len))
+    return best_match
+
+def brevity_penalty(c, r):
+    """Calculate the brevity penalty."""
+    if c > r:
+        return 1
+    else:
+        return math.exp(1 - float(r) / c)
+
+def geometric_mean(precisions):
+    """Calculate the geometric mean of the precisions."""
+    return (reduce(operator.mul, precisions)) ** (1.0 / len(precisions))
+
+def BLEU(candidate, references):
+    """Calculate the BLEU score for candidate sentences."""
+    precisions = []
+    for i in range(4):
+        pr, bp = count_ngram(candidate, references, i+1)
+        precisions.append(pr)
+    bleu = geometric_mean(precisions) * bp
+    return bleu
+
+if __name__ == "__main__":
+    candidate_file = sys.argv[1]
+    reference_path = sys.argv[2]
+    
+    candidate, references = fetch_data(candidate_file, reference_path)
+    bleu_score = BLEU(candidate, references)
+    
+    print(bleu_score)
+    
+    with open('bleu_out.txt', 'w', encoding='utf-8') as out_file:
+        out_file.write(str(bleu_score))
